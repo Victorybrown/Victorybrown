@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Hi I'm Victory Brown  
- <a href="https://github.com/Victorybrown"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
+ <a href="https://github.com/Victorybrown">
 
 - I am the founder of  at [Dezignhers](https://twitter.com/dezignhers).
 - I am a User Experience Researcher excited about improving user and product experinces across vrying platform through design and writing.
