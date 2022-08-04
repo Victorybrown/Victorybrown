@@ -4,14 +4,13 @@
  <a href="https://github.com/Victorybrown">
 
 - I am the founder of  at [Dezignhers](https://twitter.com/dezignhers).
-- I am a User Experience Researcher excited about improving user and product experinces across vrying platform through design and writing.
-- I enjoy sharing information by creating tech content, Now involved in web3 and all its aspects. I am public speaker interested in DEI. Accessibility, Open source and Web3  
-- I am actively contributing to [Drupal](https://www.drupal.org/), [Chaoss](https://github.com/chaoss) projects, [Open Source Design](opensourcedesign.net)
+- User Experience Researcher excited about improving user and product experiences across different digital platform through design and writing.
+- I enjoy sharing information by creating tech content, Now involved in web3 and all its aspects. I am public speaker interested in DEI, Design,  Accessibility, Open source and Web3  
+- I am actively contributing to [Drupal](https://events.drupal.org/prague2022/meet-volunteers), [Chaoss](https://github.com/chaoss) projects, [Open Source Design](opensourcedesign.net) and also a [sustainOSS organizer](https://sustainoss.org/about/)
 - I love cats, arts and also creative writing
  ---
  
  ## Projects
- - <a href="https://twitter.com/WildClanNFT">StoryTeller</a>
 - <a href="https://twitter.com/dezignhers"> Founder/Community Manager </a>
 - <a href="https://github.com/orgs/badging/teams/reviewers/members"> CHAOSS Badging Reviewer </a> 
 - <a href="https://opensource.ieee.org/community-advisory-group/"> Member </a> 
