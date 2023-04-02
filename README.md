@@ -14,7 +14,8 @@
 - <a href="https://twitter.com/dezignhers"> Founder/Community Manager </a>
 - <a href="https://github.com/orgs/badging/teams/reviewers/members"> CHAOSS Badging Reviewer </a> 
 - <a href="https://opensource.ieee.org/community-advisory-group/"> Member </a> 
-
+- <a href="https://opencollective.com/community-contributor-group"> Open collective Community contributor </a>
+- <a href="https://opencollective.com/drupal-contribution"> Drupal collective Community contributor </a>
 ---
 ## Latest Blog Articles 📘
 
